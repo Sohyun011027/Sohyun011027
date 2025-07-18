@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohyun011027)](https://github.com/anuraghazra/github-readme-stats)
+[![hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohyun011027&thema=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 **Sohyun011027/Sohyun011027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
